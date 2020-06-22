@@ -4,12 +4,7 @@
 
 # GT Food Truck Database Management System
 
-![title_logo](https://github.com/XinzeWang/GT-Food-Truck/raw/master/readme-resource/logo.png)
-
-## Online Demo
-This project has been deployed on **AWS** using ***Elastic Beanstalk*** and ***Amazon Aurora***.
-
-Demo Link: 👉👉 http://gtfoodtruck-env.eba-fvaym9bd.us-east-1.elasticbeanstalk.com/ 👈👈
+![title_logo](https://github.com/SKZhao97/GT-Food-truck-database-management-system/readme-resource/logo.png)
 
 ## Description
 This project aims to design and implement a food truck database management system using relational database concepts. The goal is to improve food truck management and food order process for users, admins, managers and staffs. 
