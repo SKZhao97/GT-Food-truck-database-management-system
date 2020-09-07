@@ -1,5 +1,6 @@
 ![Language](https://img.shields.io/badge/Language-Java-red)
 ![Framework](https://img.shields.io/badge/Framework-Spring-brightgreen)
+![Database](https://img.shields.io/badge/Database-MySQL-blue)
 
 # GT Food Truck Database Management System
 
